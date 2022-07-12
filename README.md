@@ -2,6 +2,10 @@
   Cadastro curso Cod3r
 </h1>
 
+<h1>
+    <img src="frontend/public/cadastro-cod3r.png">
+</h1>
+
 # Indice
 - [Sobre](#-sobre)
 - [Tecnologia utilizada no projeto frontend](#-tecnologia-utilizada-no-projeto-frontend)
