@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Exemplo",
+      "email": "exemplo@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "exemplo2",
+      "email": "exemplo2@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Marco Antônio Da Silva",
+      "email": "world.solucoes.eletrica@hotmail.com",
+      "id": 3
+    },
+    {
+      "name": "Udemy",
+      "email": "world@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Marcelo algusto lope",
+      "email": "marceloalgusto@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "lima Camelo Cursos livres eireli-me",
+      "email": "marcoantoniomarketing2022@gmail.com",
+      "id": 6
+    }
+  ]
+}
